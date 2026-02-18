@@ -2,23 +2,22 @@
 
 | 排名 | 合约 | 24h 成交额 | 4h 波动幅度 |
 |------|------|------------|-------------|
-| 1 | ETHUSDT | 7.277B | 2.09% |
-| 2 | BTCUSDT | 5.045B | 2.27% |
-| 3 | SOLUSDT | 705.918M | 2.65% |
-| 4 | PIPPINUSDT | 494.690M | 9.24% |
-| 5 | WLFIUSDT | 334.512M | 4.66% |
-| 6 | DOGEUSDT | 304.871M | 2.65% |
-| 7 | RIVERUSDT | 276.967M | 9.53% |
-| 8 | SPACEUSDT | 218.041M | 11.97% |
-| 9 | XRPUSDT | 185.027M | 2.53% |
-| 10 | XAUUSDT | 131.849M | 0.61% |
-| 11 | PEPEUSDT | 124.338M | 3.29% |
-| 12 | ZECUSDT | 120.308M | 4.08% |
-| 13 | ESPUSDT | 96.758M | 8.01% |
-| 14 | HYPEUSDT | 93.422M | 2.49% |
-| 15 | JTOUSDT | 74.575M | 3.38% |
-| 16 | STABLEUSDT | 67.530M | 3.43% |
-| 17 | JELLYJELLYUSDT | 54.504M | 6.26% |
-| 18 | PUMPUSDT | 52.845M | 5.04% |
-| 19 | BNBUSDT | 52.687M | 1.86% |
-| 20 | SUIUSDT | 50.419M | 2.44% |
+| 1 | ETHUSDT | 7.518B | 0.90% |
+| 2 | BTCUSDT | 5.241B | 0.64% |
+| 3 | SOLUSDT | 703.755M | 0.92% |
+| 4 | PIPPINUSDT | 468.628M | 2.20% |
+| 5 | WLFIUSDT | 336.782M | 1.00% |
+| 6 | DOGEUSDT | 317.696M | 0.79% |
+| 7 | RIVERUSDT | 240.942M | 11.65% |
+| 8 | SPACEUSDT | 211.372M | 3.60% |
+| 9 | XRPUSDT | 206.346M | 0.89% |
+| 10 | XAUUSDT | 131.316M | 0.18% |
+| 11 | PEPEUSDT | 129.426M | 1.01% |
+| 12 | ZECUSDT | 120.873M | 0.78% |
+| 13 | ESPUSDT | 117.758M | 6.05% |
+| 14 | HYPEUSDT | 97.029M | 0.89% |
+| 15 | JTOUSDT | 67.974M | 1.34% |
+| 16 | STABLEUSDT | 62.431M | 1.27% |
+| 17 | BNBUSDT | 61.622M | 0.46% |
+| 18 | SUIUSDT | 53.877M | 0.82% |
+| 19 | PUMPUSDT | 52.779M | 0.79% |
